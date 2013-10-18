@@ -4,7 +4,7 @@ coq-gc
 Coq plugin to force garbage collection. 
 
 Use
-===
+---
 
 ```
 Require Import Gc.
@@ -13,7 +13,7 @@ Gc Full.
 ```
 
 Installation
-============
+------------
 
 From the command line, run
 
@@ -24,7 +24,7 @@ make install
 You may need root privileges in order to install the files to the system.
 
 Why?
-====
+----
 
 I've run into two instances where I wished that I could manually garbage collect Coq.
 
