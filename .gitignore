@@ -1,3 +1,9 @@
 *.vo
 *.glob
 *.v.d
+*.cmo
+*.cmx
+*.cmi
+*.ml4.d
+Makefile.coq
+*~
