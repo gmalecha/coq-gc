@@ -1,1 +1,1 @@
-Declare ML Module "gc".
+Declare ML Module "coqGc".
